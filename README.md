@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rafael93
 - 👀 I’m interested in being a fullstack developer
-- 🌱 I’m currently learning javascript, React js, node js, ruby, RoR.
+- 🌱 I’m currently learning javascript, the MERN stack, RoR.
 - 💞️ I’m looking to collaborate with other developers and create software of hight quality
 - 📫 How to reach me rafaelgamas@gmail.com
 
